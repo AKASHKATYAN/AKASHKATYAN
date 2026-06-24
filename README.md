@@ -23,7 +23,7 @@ akash = {
     "focus"       : ["RAG Systems", "Multi-Agent AI", "Backend Engineering"],
     "achievement" : "AIR 653 — UPSC NDA & NA (I) 2025",
     "currently"   : "Building RFID arcade backend @ contract role",
-    "ask_me_about": ["LangChain", "FastAPI", "Vector DBs", "Agentic AI"],
+    "ask_me_about": ["LangChain", "LangGraph", "FastAPI", "Vector DBs", "Agentic AI"],
 }
 ```
 
@@ -112,6 +112,7 @@ akash = {
 **AI / ML**
 
 ![LangChain](https://img.shields.io/badge/LangChain-0f0c29?style=for-the-badge&logo=chainlink&logoColor=00e5ff)
+![LangGraph](https://img.shields.io/badge/LangGraph-0f0c29?style=for-the-badge&logo=chainlink&logoColor=00e5ff)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0f0c29?style=for-the-badge&logo=huggingface&logoColor=00e5ff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=00e5ff)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0f0c29?style=for-the-badge&logo=scikitlearn&logoColor=00e5ff)
